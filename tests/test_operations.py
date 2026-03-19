@@ -7,7 +7,7 @@ def test_add(a,b):
 
 
 def test_subtract(a,b):
-    assert add(2,3)==-1
-    assert add(4,-1)==5
-    assert add(-1,1)==-2
+    assert subtract(2,3)==-1
+    assert subtract(4,-1)==5
+    assert subtract(-1,1)==-2
 
